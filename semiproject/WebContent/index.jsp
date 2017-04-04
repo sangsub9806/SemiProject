@@ -17,7 +17,7 @@
 		<div class="row">
 			<div class="col-sm-4">
 				<div class="panel panel-success">
-					<div class="panel-heading" align="center">건의사항 게시판a</div>
+					<div class="panel-heading" align="center">건의사항 게시판</div>
 					<div class="panel-body">
 						<table class="table table-condensed">
 							<thead>
