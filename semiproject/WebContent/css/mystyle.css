@@ -1,0 +1,44 @@
+/* Remove the navbar's default rounded borders and increase the bottom margin */
+.navbar {
+	margin-bottom: 50px;
+	border-radius: 0;
+}
+
+/* Remove the jumbotron's default bottom margin */
+.jumbotron {
+	margin-bottom: 0;
+}
+
+/* footer 여백주기 */
+.row {
+	height: 70px;
+}
+
+/* 폰트 바꾸기 */
+body, table, div, p {
+	font-family: inherit;
+}
+
+/* Add a gray background color and some padding to the footer */
+footer {
+	background-color: #F2F2F2;
+	padding: 15px;
+}
+
+body {
+	background-color: #FFFFFF;
+}
+
+table {
+	table-layout: fixed;
+}
+
+th {
+	text-align: center;
+}
+
+th, td {
+	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap;
+}
